@@ -1,7 +1,3 @@
-% Purpose  : COMP90048 Project 1 - Maths Puzzles Solver
-% Author   : Hissah Alotaibi (alotaibih@student.unimelb.edu.au)
-% ID       : 1042537
-% Date     : Monday, 24 March 2021
 
 % This program solve math puzzle by using prolog language,
 % it takes math puzzle as list of lists,
